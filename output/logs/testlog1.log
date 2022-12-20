@@ -4330,3 +4330,12 @@
 2022-12-20 01:07:48,530 [main] INFO logger_File - User Entered E-mail and Password
 2022-12-20 01:07:48,638 [main] INFO logger_File - User Clicked Login Button
 2022-12-20 01:07:49,312 [main] INFO logger_File - Account is Visible
+2022-12-20 01:32:56,405 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:32:56,774 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 01:32:57,245 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 01:32:57,390 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 01:32:58,244 [main] INFO logger_File - Account is Visible
+2022-12-20 01:32:58,479 [main] INFO logger_File - User Clicked on Account Option
+2022-12-20 01:32:59,425 [main] INFO logger_File - User added his debit card information
+2022-12-20 01:32:59,586 [main] INFO logger_File - User clicked on ADD CARD BUTTON
+2022-12-20 01:33:00,421 [main] INFO logger_File - User Added the Debit Card Information Successfully
