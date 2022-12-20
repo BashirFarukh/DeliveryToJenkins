@@ -1,6 +1,9 @@
 package tek.capstone.steps;
 
+import java.util.List;
+
 import org.junit.Assert;
+import org.openqa.selenium.By;
 
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.Given;
@@ -51,19 +54,29 @@ public class HomeSteps extends CommonUtility {
 	
 	//SidebarOptions
 	
-//	@When("User on {string}")
-//	public void userOn(String string) {
-//   Assert.assertTrue(isElementDisplayed(factory.homePage().shopDepartmentFeild));
-//   logger.info("User is DepartmentSection");
-//		
-//	}
-//	@Then("below options are present in department {string} and {string}")
-//	public void belowOptionsArePresentInDepartmentAnd(String string, String string2) {
-//		Assert.assertTrue(isElementDisplayed(factory.homePage().tvAndVideoFeild));
-//		Assert.assertTrue(isElementDisplayed(factory.homePage().videoGamesFeild));
-//	    
-//		
-//	}
+    
+    
+    @When("User on {string}")
+    public void userOnDepartment(String department) {
+        clickElementWithJS(getDriver().findElement(
+                By.xpath("//div[@class = 'sidebar_content-item']//child::span[text() = '" + department + "']")));
+        logger.info("user clicked on department " + department + " option");
+    }
+
+
+
+   @Then("below options are present in department")
+    public void belowOptionsArePresentInDepartment(DataTable data) {
+        List<List<String>> options = data.asLists(String.class);
+        Assert.assertTrue(isElementDisplayed(getDriver().findElement(By.xpath(
+                "//div[@class = 'sidebar_content-item']//child::span[text() = '" + options.get(0).get(0) + "']"))));
+        Assert.assertTrue(isElementDisplayed(getDriver().findElement(By.xpath(
+                "//div[@class = 'sidebar_content-item']//child::span[text() = '" + options.get(0).get(1) + "']"))));
+        logger.info("options are present in department");
+
+
+
+   }
 	
 	
 	//@AddItemToCart

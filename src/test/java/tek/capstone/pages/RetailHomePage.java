@@ -40,38 +40,15 @@ public WebElement automativeField;
 
 // @SidebarOptions
 
-//@FindBy(id = "contentHeader")
+//@FindBy(xpath = "//div[@class = 'sidebar_content-item']//child::span[text() = '\" + department + \"']")
 //public WebElement shopDepartmentFeild;
 //
-//@FindBy(xpath = "//span[text()='TV & Video']")
-//public WebElement tvAndVideoFeild ;
+//@FindBy(xpath = "//div[@class = 'sidebar_content-item']//child::span[text() = '\" + options.get(0).get(0) + \"']")
+//public WebElement option1Feild;
 //
-//@FindBy(xpath = "//span[text()='Video Games']")
-//public WebElement videoGamesFeild;
-//
-//@FindBy(xpath = "//span[text()='Accessories']")
-//public WebElement accessoriesFeild;
-//
-//@FindBy(xpath = "//span[text()='Networking']")
-//public WebElement networkingFeild;
-//
-//@FindBy(xpath = "//span[text()='Smart Home Lightning']")
-//public WebElement smartHomeAndLighting ;
-//
-//@FindBy(xpath = "//span[text()='Plugs and Outlets']")
-//public WebElement plugsAndOutlets;
-//
-//@FindBy(xpath = "//span[text()='Athletic Clothing']")
-//public WebElement athleticClothing;
-//
-//@FindBy(xpath = "//span[text()='Exercise & Fitness']")
-//public WebElement excerciseAndFitness;
-//
-//@FindBy(xpath = "//span[text()='Automative Parts & Accessories']")
-//public WebElement autoPartsFeild;
-//
-//@FindBy(xpath = "//span[text()='MotorCycle & Powersports']")
-//public WebElement motorCycleParts ;
+//@FindBy(xpath = "//div[@class = 'sidebar_content-item']//child::span[text() = '\" + options.get(0).get(1) + \"']")
+//public WebElement option2Feild;
+
 
 
 

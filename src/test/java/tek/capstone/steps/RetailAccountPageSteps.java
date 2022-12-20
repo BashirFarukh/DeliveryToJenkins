@@ -4,6 +4,7 @@ import java.util.List;
 import java.util.Map;
 
 import org.junit.Assert;
+import org.openqa.selenium.WebElement;
 
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.Then;
@@ -22,15 +23,19 @@ public class RetailAccountPageSteps extends CommonUtility {
 	}
 	@When("User update Name {string} and Phone {string}")
 	public void userUpdateNameAndPhone(String name, String phoneNumber) {
+		clearTextUsingSendKeys(factory.accountPage().nameFeild);
+		
 		sendText(factory.accountPage().nameFeild,name);
-		sendText(factory.accountPage().phoneNumFeild, phoneNumber);
+		clearTextUsingSendKeys(factory.accountPage().phoneNumber);
+		sendText(factory.accountPage().phoneNumber, phoneNumber);
+		
 		logger.info("User entered Name and phone Number");
 		
 	   
 	}
 	@When("User click on Update button")
 	public void userClickOnUpdateButton() {
-		click(factory.accountPage().updateClick);
+		clickElementWithJS(factory.accountPage().updateClick);
 		logger.info("User Clicked on Update Button");
 	 
 	}
@@ -43,27 +48,27 @@ public class RetailAccountPageSteps extends CommonUtility {
 	
 	//Change Password
 	
-	@When("User enter below information")
-	public void userEnterBelowInformation(DataTable dataTable) {
-	List<Map<String, String>> ChangePassword = dataTable.asMaps(String.class, String.class);
-	sendText(factory.accountPage().oldPassword,ChangePassword.get(0).get("previousPassword")); 
-	sendText(factory.accountPage().newPasswordFeild,ChangePassword.get(0).get("newPassword"));
-	sendText(factory.accountPage().confirmPassword,ChangePassword.get(0).get("confirmPassword"));
-	logger.info("User Changed the Password");
-
-	}
-	@When("User click on Change Password button")
-	public void userClickOnChangePasswordButton() {
-		click(factory.accountPage().clickChangePasswordBtn);
-		logger.info("User Cliched the Button to Change Password");
-	   
-	}
-	@Then("a message should be displayed {string}")
-	public void aMessageShouldBeDisplayedPasswordUpdatedSuccessfully() {
-	   waitTillPresence(factory.accountPage().passChangedSuccessfully);
-	   logger.info("Messaged pop up SUCCESSFULLY CHANGED");
-		
-	}
+//	@When("User enter below information")
+//	public void userEnterBelowInformation(DataTable dataTable) {
+//	List<Map<String, String>> ChangePassword = dataTable.asMaps(String.class, String.class);
+//	sendText(factory.accountPage().oldPassword,ChangePassword.get(0).get("previousPassword")); 
+//	sendText(factory.accountPage().newPasswordFeild,ChangePassword.get(0).get("newPassword"));
+//	sendText(factory.accountPage().confirmPassword,ChangePassword.get(0).get("confirmPassword"));
+//	logger.info("User Changed the Password");
+//
+//	}
+//	@When("User click on Change Password button")
+//	public void userClickOnChangePasswordButton() {
+//		click(factory.accountPage().clickChangePasswordBtn);
+//		logger.info("User Cliched the Button to Change Password");
+//	   
+//	}
+//	@Then("a message should be displayed {string}")
+//	public void aMessageShouldBeDisplayedPasswordUpdatedSuccessfully() {
+//	   waitTillPresence(factory.accountPage().passChangedSuccessfully);
+//	   logger.info("Messaged pop up SUCCESSFULLY CHANGED");
+//		
+//	}
 	
 	//Adding Payment Card
 	
@@ -133,6 +138,15 @@ public class RetailAccountPageSteps extends CommonUtility {
 		logger.info("User Clicked Update Card");
 
 	}
+	
+	@Then("aa message should be displayed {string}")
+	public void aaMessageShouldBeDisplayed(String string) {
+		waitTillPresence(factory.accountPage().editUpdatedSuccessfully); 
+		logger.info("A message showed the Edit Updated Successfully");
+	}
+	
+
+	
 
 	
 	
@@ -200,16 +214,26 @@ public class RetailAccountPageSteps extends CommonUtility {
 	public void userClickOnEditAddressOption() {
 	click(factory.accountPage().editAddress);
 	clearTextUsingSendKeys(factory.accountPage().nameFeildFullName);
+    sendText(factory.accountPage().nameFeildFullName);
 	clearTextUsingSendKeys(factory.accountPage().phoneNumbFeild);
+	sendText(factory.accountPage().phoneNumbFeild);
 	clearTextUsingSendKeys(factory.accountPage().st_addressFeild);
+	sendText(factory.accountPage().st_addressFeild);
 	clearTextUsingSendKeys(factory.accountPage().appartment);
+	sendText(factory.accountPage().appartment);
 	clearTextUsingSendKeys(factory.accountPage().cityFeild);
+	sendText(factory.accountPage().cityFeild);
 	clearTextUsingSendKeys(factory.accountPage().zipcodeFeild);
+	sendText(factory.accountPage().zipcodeFeild);
 	logger.info("User Clicked on Edit Address Option and cleared the Values");
 	}
 	
 
 	
+	private void sendText(WebElement nameFeildFullName) {
+		// TODO Auto-generated method stub
+		
+	}
 	@Then("User click update Your Address button")
 	public void userClickUpdateAddBtn() {
 		click(factory.accountPage().updatateAddress);

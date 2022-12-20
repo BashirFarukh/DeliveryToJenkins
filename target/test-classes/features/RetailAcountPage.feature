@@ -1,27 +1,28 @@
+@TestAll
 Feature: Retail Account Page
 
   Background: 
     Given User is on retail website
     Then User click on Sign in option
-    And User enter email 'Bashir.CapstoneP10@tek.com' and password 'Book@7860'
+    And User enter email 'Bashir.CapstoneP101@tek.com' and password 'Bashir@786t'
     And User click on login button
     Then User should be logged in into Account
 
   @AddingPhoneNumber
   Scenario: Verify User can update Profiel information
     When User click on Account option
-    And User update Name 'Bababg' and Phone '916 450 3429'
+    And User update Name 'Bababg' and Phone '916 450 0000'
     And User click on Update button
     Then User profile information should be updated
 
-  @PasswordChange
-  Scenario: Verify User can Update password
-    When User click on Account option
-    And User enter below information
-      | previousPassword | newPassword | confirmPassword |
-      | Book@786         | Book@7860   | Book@7860       |
-    And User click on Change Password button
-    Then a message should be displayed ‘Password Updated Successfully’
+ 
+  #Scenario: Verify User can Update password
+   # When User click on Account option
+    #And User enter below information
+      #| previousPassword | newPassword | confirmPassword |
+      #| Book@786         | Book@7860   | Book@7860       |
+   # And User click on Change Password button
+    #Then a message should be displayed ‘Password Updated Successfully’
 
   @AddCard
   Scenario: Verify User can add a payment method
@@ -29,7 +30,7 @@ Feature: Retail Account Page
     And User click on Add a payment method link
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 1234567891234599 | Bashir     |              12 |           2024 |          321 |
+      | 8234567891294595 | Bashir     |              12 |           2024 |          321 |
     And User click on Add your card button
     Then a message should be displayed ‘Payment Method added successfully’
 
@@ -43,7 +44,7 @@ Feature: Retail Account Page
       | 1234567890543567 | Farukhi    |               9 |           2024 |          890 |
     And user click on Update Your Card button
 
-  #Then a message should be displayed 'Payment Method updated Successfully'
+     Then aa message should be displayed 'Payment Method updated Successfully'
   @RemoveCard
   Scenario: Verify User can remove Debit or Credit card
     When User click on Account option
@@ -65,7 +66,7 @@ Feature: Retail Account Page
   Scenario: Verify User can edit an Address added on account
     When User click on Account option
     And User click on edit address option
-    And user fill new address form with below information
+    And User fill new address form with below information
       | country | fullName | phoneNumber | streetAddress | apt | city       | state  | zipCode |
       | Germany | Sala     |  9167869807 | 9900 Sky Park |  75 | Sacramento | Berlin |   95828 |
     And User click update Your Address button

@@ -11,7 +11,7 @@ public class RetailAccountPage extends BaseSetup{
 	public RetailAccountPage() {
 		PageFactory.initElements(getDriver(), this);
 	}
-	
+	//ADDPHONE
 	@FindBy(id = "nameInput")
 	public WebElement nameFeild;
 	
@@ -19,10 +19,10 @@ public class RetailAccountPage extends BaseSetup{
 	@FindBy(id = "personalUpdateBtn")
 	public WebElement updateClick;
 	
-	@FindBy(xpath = "//input[@name = 'phoneNumber']")
-	public WebElement phoneNumFeild;
+	@FindBy(xpath = "//*[@id=\"personalPhoneInput\"]")
+	public WebElement phoneNumber;
 	
-	@FindBy(xpath = "//img[@alt='profile pic']")
+	@FindBy(id = "personalUpdateBtn")
 	public WebElement profileSeen;
 	//password change
 	@FindBy(id = "previousPasswordInput")
@@ -139,6 +139,9 @@ public class RetailAccountPage extends BaseSetup{
 	
 	@FindBy(xpath = "//button[text()='Update Your Card']")
 	public WebElement updateEiditCard;
+	
+	@FindBy(xpath = "//div[text()='Payment Method updated Successfully']")
+	public WebElement editUpdatedSuccessfully;
 	
 	//RemovingCard
 	
