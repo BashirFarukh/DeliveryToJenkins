@@ -3699,3 +3699,634 @@
 2022-12-19 21:30:22,979 [main] INFO logger_File - User Entered E-mail and Password
 2022-12-19 21:30:23,134 [main] INFO logger_File - User Clicked Login Button
 2022-12-19 21:30:23,615 [main] INFO logger_File - Account is Visible
+2022-12-20 00:26:49,139 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:26:49,174 [main] INFO logger_File - logo is present
+2022-12-20 00:26:51,632 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:26:51,717 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:26:51,918 [main] INFO logger_File - Sidebar Shop Department Sections are Visible to th User
+2022-12-20 00:26:57,003 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:26:57,059 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:26:57,263 [main] INFO logger_File - user clicked on department Electronics option
+2022-12-20 00:26:57,305 [main] INFO logger_File - options are present in department
+2022-12-20 00:27:05,413 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:27:05,472 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:27:05,680 [main] INFO logger_File - user clicked on department Computers option
+2022-12-20 00:27:05,713 [main] INFO logger_File - options are present in department
+2022-12-20 00:27:09,995 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:27:10,049 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:27:10,379 [main] INFO logger_File - user clicked on department Smart Home option
+2022-12-20 00:27:10,412 [main] INFO logger_File - options are present in department
+2022-12-20 00:27:13,198 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:27:13,275 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:27:13,378 [main] INFO logger_File - user clicked on department Sports option
+2022-12-20 00:27:13,421 [main] INFO logger_File - options are present in department
+2022-12-20 00:27:17,505 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:27:17,558 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:27:17,776 [main] INFO logger_File - user clicked on department Automative option
+2022-12-20 00:27:17,817 [main] INFO logger_File - options are present in department
+2022-12-20 00:27:22,445 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:27:22,508 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 00:27:22,646 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 00:27:22,691 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 00:27:23,085 [main] INFO logger_File - Account is Visible
+2022-12-20 00:27:23,139 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-20 00:27:23,198 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-20 00:27:23,247 [main] INFO logger_File - User Cliked Search Button
+2022-12-20 00:27:23,637 [main] INFO logger_File - User Clicked on the Item
+2022-12-20 00:27:23,924 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-20 00:27:23,970 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-20 00:27:26,894 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:27:26,975 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 00:27:27,164 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 00:27:27,227 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 00:27:27,629 [main] INFO logger_File - Account is Visible
+2022-12-20 00:27:27,688 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-20 00:27:27,773 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-20 00:27:27,840 [main] INFO logger_File - User Cliked Search Button
+2022-12-20 00:27:28,170 [main] INFO logger_File - User Clicked on the Item
+2022-12-20 00:27:28,457 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-20 00:27:28,504 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-20 00:27:31,502 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:27:31,567 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 00:27:31,699 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 00:27:31,746 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 00:27:32,217 [main] INFO logger_File - Account is Visible
+2022-12-20 00:27:32,264 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-20 00:27:32,318 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-20 00:27:32,367 [main] INFO logger_File - User Cliked Search Button
+2022-12-20 00:27:32,630 [main] INFO logger_File - User Clicked on the Item
+2022-12-20 00:27:32,916 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-20 00:27:32,962 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-20 00:27:39,164 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:27:39,227 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 00:27:39,361 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 00:27:39,405 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 00:27:39,797 [main] INFO logger_File - Account is Visible
+2022-12-20 00:27:39,866 [main] INFO logger_File - User Clicked on Account Option
+2022-12-20 00:27:40,045 [main] INFO logger_File - User entered Name and phone Number
+2022-12-20 00:27:40,055 [main] INFO logger_File - User Clicked on Update Button
+2022-12-20 00:27:40,068 [main] INFO logger_File - User can see the Profiel 
+2022-12-20 00:27:42,580 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:27:42,674 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 00:27:42,878 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 00:27:42,938 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 00:27:43,318 [main] INFO logger_File - Account is Visible
+2022-12-20 00:27:43,384 [main] INFO logger_File - User Clicked on Account Option
+2022-12-20 00:27:43,725 [main] INFO logger_File - User added his debit card information
+2022-12-20 00:27:43,784 [main] INFO logger_File - User clicked on ADD CARD BUTTON
+2022-12-20 00:28:26,712 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:28:26,792 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 00:28:26,964 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 00:28:27,021 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 00:28:27,409 [main] INFO logger_File - Account is Visible
+2022-12-20 00:28:27,496 [main] INFO logger_File - User Clicked on Account Option
+2022-12-20 00:28:28,075 [main] INFO logger_File - User Clicked Master Card Image
+2022-12-20 00:28:28,300 [main] INFO logger_File - User Clicked on Edit Card Option
+2022-12-20 00:28:28,580 [main] INFO logger_File - User Entered Required information to Edit the Card
+2022-12-20 00:28:28,629 [main] INFO logger_File - User Clicked Update Card
+2022-12-20 00:28:29,409 [main] INFO logger_File - A message showed the Edit Updated Successfully
+2022-12-20 00:28:32,268 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:28:32,346 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 00:28:32,522 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 00:28:32,579 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 00:28:33,151 [main] INFO logger_File - Account is Visible
+2022-12-20 00:28:33,240 [main] INFO logger_File - User Clicked on Account Option
+2022-12-20 00:28:33,411 [main] INFO logger_File - User Clicked on Card
+2022-12-20 00:28:33,467 [main] INFO logger_File - User Clicked Remove to remove the card
+2022-12-20 00:28:33,486 [main] INFO logger_File - Empty Card box is Displayed
+2022-12-20 00:28:37,971 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:28:38,029 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 00:28:38,159 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 00:28:38,203 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 00:28:38,651 [main] INFO logger_File - Account is Visible
+2022-12-20 00:28:38,716 [main] INFO logger_File - User Clicked on Account Option
+2022-12-20 00:28:38,775 [main] INFO logger_File - User Clidk On Add Addrees I-con
+2022-12-20 00:28:39,207 [main] INFO logger_File - User Entered Required Information
+2022-12-20 00:28:39,252 [main] INFO logger_File - User Clicked Add Button
+2022-12-20 00:28:40,106 [main] INFO logger_File - Message Successfully Updated
+2022-12-20 00:28:42,933 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:28:43,015 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 00:28:43,199 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 00:28:43,258 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 00:28:43,603 [main] INFO logger_File - Account is Visible
+2022-12-20 00:28:43,692 [main] INFO logger_File - User Clicked on Account Option
+2022-12-20 00:28:44,710 [main] INFO logger_File - User Clicked on Edit Address Option and cleared the Values
+2022-12-20 00:28:45,046 [main] INFO logger_File - User Entered Required Information
+2022-12-20 00:28:45,091 [main] INFO logger_File - User Clicked the Update Address Button
+2022-12-20 00:28:45,865 [main] INFO logger_File - updated Successefully
+2022-12-20 00:28:48,560 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:28:48,644 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 00:28:48,829 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 00:28:48,873 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 00:28:49,566 [main] INFO logger_File - Account is Visible
+2022-12-20 00:28:49,630 [main] INFO logger_File - User Clicked on Account Option
+2022-12-20 00:28:50,044 [main] INFO logger_File - User Clicked on Remove Card
+2022-12-20 00:28:50,059 [main] INFO logger_File - Address is removed
+2022-12-20 00:28:52,629 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:28:52,717 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 00:28:52,912 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 00:28:52,971 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 00:28:53,358 [main] INFO logger_File - Account is Visible
+2022-12-20 00:28:53,408 [main] INFO logger_File - User Click Order Section
+2022-12-20 00:28:53,797 [main] INFO logger_File - User Clicked On First Order
+2022-12-20 00:28:53,844 [main] INFO logger_File - User Clicked Review Button
+2022-12-20 00:28:53,951 [main] INFO logger_File - User Wrote the Review
+2022-12-20 00:28:53,992 [main] INFO logger_File - User Click the add Button to Add the Review
+2022-12-20 00:28:54,800 [main] INFO logger_File - Message added Successfully
+2022-12-20 00:28:57,518 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:28:57,602 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 00:28:57,788 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 00:28:57,849 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 00:28:58,196 [main] INFO logger_File - Account is Visible
+2022-12-20 00:28:58,268 [main] INFO logger_File - User Click Order Section
+2022-12-20 00:28:58,667 [main] INFO logger_File - User Clicked On First Order
+2022-12-20 00:29:22,998 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:29:23,057 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 00:29:23,183 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 00:29:23,225 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 00:29:23,616 [main] INFO logger_File - Account is Visible
+2022-12-20 00:43:04,600 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:43:04,646 [main] INFO logger_File - logo is present
+2022-12-20 00:43:07,785 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:43:07,850 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:43:08,087 [main] INFO logger_File - Sidebar Shop Department Sections are Visible to th User
+2022-12-20 00:43:10,677 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:43:10,758 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:43:11,040 [main] INFO logger_File - user clicked on department Electronics option
+2022-12-20 00:43:11,077 [main] INFO logger_File - options are present in department
+2022-12-20 00:43:13,718 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:43:13,799 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:43:13,951 [main] INFO logger_File - user clicked on department Computers option
+2022-12-20 00:43:13,986 [main] INFO logger_File - options are present in department
+2022-12-20 00:43:16,636 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:43:16,716 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:43:16,991 [main] INFO logger_File - user clicked on department Smart Home option
+2022-12-20 00:43:17,035 [main] INFO logger_File - options are present in department
+2022-12-20 00:43:19,874 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:43:19,960 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:43:20,111 [main] INFO logger_File - user clicked on department Sports option
+2022-12-20 00:43:20,160 [main] INFO logger_File - options are present in department
+2022-12-20 00:43:22,800 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:43:22,879 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:43:23,333 [main] INFO logger_File - user clicked on department Automative option
+2022-12-20 00:43:23,368 [main] INFO logger_File - options are present in department
+2022-12-20 00:43:26,060 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:43:26,170 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 00:43:26,388 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 00:43:26,452 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 00:43:26,847 [main] INFO logger_File - Account is Visible
+2022-12-20 00:43:26,904 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-20 00:43:26,963 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-20 00:43:27,015 [main] INFO logger_File - User Cliked Search Button
+2022-12-20 00:43:27,337 [main] INFO logger_File - User Clicked on the Item
+2022-12-20 00:43:27,634 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-20 00:43:27,682 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-20 00:43:30,658 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:43:30,755 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 00:43:30,956 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 00:43:31,024 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 00:43:31,409 [main] INFO logger_File - Account is Visible
+2022-12-20 00:43:31,455 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-20 00:43:31,517 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-20 00:43:31,568 [main] INFO logger_File - User Cliked Search Button
+2022-12-20 00:43:31,897 [main] INFO logger_File - User Clicked on the Item
+2022-12-20 00:43:32,187 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-20 00:43:32,235 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-20 00:43:36,449 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:43:36,514 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 00:43:36,652 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 00:43:36,703 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 00:43:37,209 [main] INFO logger_File - Account is Visible
+2022-12-20 00:43:37,258 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-20 00:43:37,313 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-20 00:43:37,363 [main] INFO logger_File - User Cliked Search Button
+2022-12-20 00:43:37,927 [main] INFO logger_File - User Clicked on the Item
+2022-12-20 00:43:38,289 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-20 00:43:38,340 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-20 00:43:41,153 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:43:41,246 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 00:43:41,459 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 00:43:41,528 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 00:43:41,885 [main] INFO logger_File - Account is Visible
+2022-12-20 00:43:41,960 [main] INFO logger_File - User Clicked on Account Option
+2022-12-20 00:43:42,153 [main] INFO logger_File - User entered Name and phone Number
+2022-12-20 00:43:42,164 [main] INFO logger_File - User Clicked on Update Button
+2022-12-20 00:43:42,178 [main] INFO logger_File - User can see the Profiel 
+2022-12-20 00:46:49,857 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:46:49,893 [main] INFO logger_File - logo is present
+2022-12-20 00:46:52,464 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:46:52,544 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:46:52,771 [main] INFO logger_File - Sidebar Shop Department Sections are Visible to th User
+2022-12-20 00:46:55,382 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:46:55,456 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:46:55,667 [main] INFO logger_File - user clicked on department Electronics option
+2022-12-20 00:46:55,706 [main] INFO logger_File - options are present in department
+2022-12-20 00:46:58,289 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:46:58,366 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:46:58,510 [main] INFO logger_File - user clicked on department Computers option
+2022-12-20 00:46:58,553 [main] INFO logger_File - options are present in department
+2022-12-20 00:47:01,230 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:47:01,310 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:47:01,580 [main] INFO logger_File - user clicked on department Smart Home option
+2022-12-20 00:47:01,613 [main] INFO logger_File - options are present in department
+2022-12-20 00:47:05,975 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:47:06,037 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:47:06,293 [main] INFO logger_File - user clicked on department Sports option
+2022-12-20 00:47:06,333 [main] INFO logger_File - options are present in department
+2022-12-20 00:47:09,050 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:47:09,122 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:47:09,259 [main] INFO logger_File - user clicked on department Automative option
+2022-12-20 00:47:09,304 [main] INFO logger_File - options are present in department
+2022-12-20 00:47:12,095 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:47:12,189 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 00:47:12,385 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 00:47:12,435 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 00:47:12,815 [main] INFO logger_File - Account is Visible
+2022-12-20 00:47:12,865 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-20 00:47:12,924 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-20 00:47:12,970 [main] INFO logger_File - User Cliked Search Button
+2022-12-20 00:47:13,546 [main] INFO logger_File - User Clicked on the Item
+2022-12-20 00:47:13,840 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-20 00:47:13,885 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-20 00:47:17,625 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:47:17,692 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 00:47:17,825 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 00:47:17,870 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 00:47:18,398 [main] INFO logger_File - Account is Visible
+2022-12-20 00:47:18,443 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-20 00:47:18,501 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-20 00:47:18,548 [main] INFO logger_File - User Cliked Search Button
+2022-12-20 00:47:18,817 [main] INFO logger_File - User Clicked on the Item
+2022-12-20 00:47:19,100 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-20 00:47:19,147 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-20 00:47:21,866 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:47:21,958 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 00:47:22,163 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 00:47:22,228 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 00:47:22,617 [main] INFO logger_File - Account is Visible
+2022-12-20 00:47:22,657 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-20 00:47:22,710 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-20 00:47:22,756 [main] INFO logger_File - User Cliked Search Button
+2022-12-20 00:47:23,017 [main] INFO logger_File - User Clicked on the Item
+2022-12-20 00:47:23,312 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-20 00:47:23,357 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-20 00:53:18,432 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:53:18,470 [main] INFO logger_File - logo is present
+2022-12-20 00:53:26,126 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:53:26,191 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:53:26,604 [main] INFO logger_File - Sidebar Shop Department Sections are Visible to th User
+2022-12-20 00:53:29,433 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:53:29,511 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:53:29,789 [main] INFO logger_File - user clicked on department Electronics option
+2022-12-20 00:53:29,835 [main] INFO logger_File - options are present in department
+2022-12-20 00:53:32,371 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:53:32,451 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:53:32,534 [main] INFO logger_File - user clicked on department Computers option
+2022-12-20 00:53:32,595 [main] INFO logger_File - options are present in department
+2022-12-20 00:53:35,733 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:53:35,831 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:53:35,934 [main] INFO logger_File - user clicked on department Smart Home option
+2022-12-20 00:53:35,993 [main] INFO logger_File - options are present in department
+2022-12-20 00:53:38,683 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:53:38,776 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:53:38,988 [main] INFO logger_File - user clicked on department Sports option
+2022-12-20 00:53:39,067 [main] INFO logger_File - options are present in department
+2022-12-20 00:53:41,758 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:53:41,848 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:53:41,955 [main] INFO logger_File - user clicked on department Automative option
+2022-12-20 00:53:42,011 [main] INFO logger_File - options are present in department
+2022-12-20 00:53:45,120 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:53:45,234 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 00:53:45,493 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 00:53:45,579 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 00:53:45,932 [main] INFO logger_File - Account is Visible
+2022-12-20 00:53:46,019 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-20 00:53:46,129 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-20 00:53:46,216 [main] INFO logger_File - User Cliked Search Button
+2022-12-20 00:53:46,434 [main] INFO logger_File - User Clicked on the Item
+2022-12-20 00:53:46,767 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-20 00:53:46,818 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-20 00:53:51,275 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:53:51,395 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 00:53:51,649 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 00:53:51,730 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 00:53:52,114 [main] INFO logger_File - Account is Visible
+2022-12-20 00:53:52,159 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-20 00:53:52,227 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-20 00:53:52,283 [main] INFO logger_File - User Cliked Search Button
+2022-12-20 00:53:52,993 [main] INFO logger_File - User Clicked on the Item
+2022-12-20 00:53:53,412 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-20 00:53:53,456 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-20 00:53:56,225 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:53:56,334 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 00:53:56,609 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 00:53:56,712 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 00:53:57,076 [main] INFO logger_File - Account is Visible
+2022-12-20 00:53:57,162 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-20 00:53:57,270 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-20 00:53:57,360 [main] INFO logger_File - User Cliked Search Button
+2022-12-20 00:53:57,637 [main] INFO logger_File - User Clicked on the Item
+2022-12-20 00:53:57,959 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-20 00:53:58,047 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-20 00:57:10,976 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:57:11,004 [main] INFO logger_File - logo is present
+2022-12-20 00:57:13,926 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:57:14,003 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:57:14,216 [main] INFO logger_File - Sidebar Shop Department Sections are Visible to th User
+2022-12-20 00:57:17,620 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:57:17,700 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:57:18,031 [main] INFO logger_File - user clicked on department Electronics option
+2022-12-20 00:57:18,076 [main] INFO logger_File - options are present in department
+2022-12-20 00:57:20,663 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:57:20,751 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:57:21,012 [main] INFO logger_File - user clicked on department Computers option
+2022-12-20 00:57:21,060 [main] INFO logger_File - options are present in department
+2022-12-20 00:57:26,111 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:57:26,192 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:57:26,459 [main] INFO logger_File - user clicked on department Smart Home option
+2022-12-20 00:57:26,500 [main] INFO logger_File - options are present in department
+2022-12-20 00:57:33,204 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:57:33,276 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:57:33,609 [main] INFO logger_File - user clicked on department Sports option
+2022-12-20 00:57:33,662 [main] INFO logger_File - options are present in department
+2022-12-20 00:57:36,663 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:57:36,749 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 00:57:37,092 [main] INFO logger_File - user clicked on department Automative option
+2022-12-20 00:57:37,159 [main] INFO logger_File - options are present in department
+2022-12-20 00:57:40,011 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:57:40,128 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 00:57:40,447 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 00:57:40,548 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 00:57:40,909 [main] INFO logger_File - Account is Visible
+2022-12-20 00:57:40,991 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-20 00:57:41,107 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-20 00:57:41,182 [main] INFO logger_File - User Cliked Search Button
+2022-12-20 00:57:41,511 [main] INFO logger_File - User Clicked on the Item
+2022-12-20 00:57:41,811 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-20 00:57:41,871 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-20 00:57:45,165 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:57:45,285 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 00:57:45,569 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 00:57:45,655 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 00:57:46,060 [main] INFO logger_File - Account is Visible
+2022-12-20 00:57:46,143 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-20 00:57:46,266 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-20 00:57:46,345 [main] INFO logger_File - User Cliked Search Button
+2022-12-20 00:57:46,997 [main] INFO logger_File - User Clicked on the Item
+2022-12-20 00:57:47,360 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-20 00:57:47,414 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-20 00:57:52,725 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 00:57:52,824 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 00:57:53,007 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 00:57:53,063 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 00:57:53,580 [main] INFO logger_File - Account is Visible
+2022-12-20 00:57:53,632 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-20 00:57:53,712 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-20 00:57:53,767 [main] INFO logger_File - User Cliked Search Button
+2022-12-20 00:57:54,588 [main] INFO logger_File - User Clicked on the Item
+2022-12-20 00:57:54,963 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-20 00:57:55,020 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-20 01:00:22,392 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:00:22,421 [main] INFO logger_File - logo is present
+2022-12-20 01:00:27,087 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:00:27,168 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 01:00:27,585 [main] INFO logger_File - Sidebar Shop Department Sections are Visible to th User
+2022-12-20 01:00:31,815 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:00:31,889 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 01:00:32,151 [main] INFO logger_File - user clicked on department Electronics option
+2022-12-20 01:00:32,198 [main] INFO logger_File - options are present in department
+2022-12-20 01:00:35,257 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:00:35,345 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 01:00:35,497 [main] INFO logger_File - user clicked on department Computers option
+2022-12-20 01:00:35,550 [main] INFO logger_File - options are present in department
+2022-12-20 01:00:38,438 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:00:38,536 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 01:00:38,811 [main] INFO logger_File - user clicked on department Smart Home option
+2022-12-20 01:00:38,865 [main] INFO logger_File - options are present in department
+2022-12-20 01:00:41,854 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:00:41,977 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 01:00:42,244 [main] INFO logger_File - user clicked on department Sports option
+2022-12-20 01:00:42,295 [main] INFO logger_File - options are present in department
+2022-12-20 01:00:47,742 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:00:47,811 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 01:00:48,017 [main] INFO logger_File - user clicked on department Automative option
+2022-12-20 01:00:48,058 [main] INFO logger_File - options are present in department
+2022-12-20 01:00:53,235 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:00:53,345 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 01:00:53,573 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 01:00:53,652 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 01:00:54,041 [main] INFO logger_File - Account is Visible
+2022-12-20 01:00:54,102 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-20 01:00:54,187 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-20 01:00:54,242 [main] INFO logger_File - User Cliked Search Button
+2022-12-20 01:00:54,681 [main] INFO logger_File - User Clicked on the Item
+2022-12-20 01:00:55,065 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-20 01:00:55,152 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-20 01:00:55,427 [main] INFO logger_File - User Can See The Quantity is added in the Cart
+2022-12-20 01:00:58,574 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:00:58,714 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 01:00:59,000 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 01:00:59,088 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 01:00:59,485 [main] INFO logger_File - Account is Visible
+2022-12-20 01:00:59,553 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-20 01:00:59,661 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-20 01:00:59,746 [main] INFO logger_File - User Cliked Search Button
+2022-12-20 01:01:00,083 [main] INFO logger_File - User Clicked on the Item
+2022-12-20 01:01:00,389 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-20 01:01:00,446 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-20 01:01:00,479 [main] INFO logger_File - User Can See The Quantity is added in the Cart
+2022-12-20 01:01:00,550 [main] INFO logger_File - User Clicked on Cart Logo
+2022-12-20 01:01:00,636 [main] INFO logger_File - User Clicked On Proceed to Checkout Button
+2022-12-20 01:01:00,713 [main] INFO logger_File - User Clicked to add New Address
+2022-12-20 01:01:01,277 [main] INFO logger_File - User Entered Required Information
+2022-12-20 01:01:01,350 [main] INFO logger_File - User Clicked Add Button
+2022-12-20 01:01:01,375 [main] INFO logger_File - User Clicked to Add Payment Card
+2022-12-20 01:01:01,680 [main] INFO logger_File - User added his debit card information
+2022-12-20 01:01:01,734 [main] INFO logger_File - User clicked on ADD CARD BUTTON
+2022-12-20 01:01:01,983 [main] INFO logger_File - User Clicked on Place Order
+2022-12-20 01:01:02,458 [main] INFO logger_File - User See The Message Order Placed Successfully
+2022-12-20 01:01:05,557 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:01:05,675 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 01:01:05,953 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 01:01:06,039 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 01:01:06,442 [main] INFO logger_File - Account is Visible
+2022-12-20 01:01:06,515 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-20 01:01:06,616 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-20 01:01:06,693 [main] INFO logger_File - User Cliked Search Button
+2022-12-20 01:01:07,147 [main] INFO logger_File - User Clicked on the Item
+2022-12-20 01:01:07,442 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-20 01:01:07,489 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-20 01:01:07,884 [main] INFO logger_File - User Can See The Quantity is added in the Cart
+2022-12-20 01:01:07,942 [main] INFO logger_File - User Clicked on Cart Logo
+2022-12-20 01:01:08,009 [main] INFO logger_File - User Clicked On Proceed to Checkout Button
+2022-12-20 01:01:08,057 [main] INFO logger_File - User Clicked on Place Order
+2022-12-20 01:01:08,632 [main] INFO logger_File - User See The Message Order Placed Successfully
+2022-12-20 01:05:55,711 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:05:55,747 [main] INFO logger_File - logo is present
+2022-12-20 01:06:00,943 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:06:01,032 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 01:06:01,281 [main] INFO logger_File - Sidebar Shop Department Sections are Visible to th User
+2022-12-20 01:06:04,026 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:06:04,117 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 01:06:04,224 [main] INFO logger_File - user clicked on department Electronics option
+2022-12-20 01:06:04,276 [main] INFO logger_File - options are present in department
+2022-12-20 01:06:07,048 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:06:07,138 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 01:06:07,424 [main] INFO logger_File - user clicked on department Computers option
+2022-12-20 01:06:07,473 [main] INFO logger_File - options are present in department
+2022-12-20 01:06:10,274 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:06:10,381 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 01:06:10,494 [main] INFO logger_File - user clicked on department Smart Home option
+2022-12-20 01:06:10,550 [main] INFO logger_File - options are present in department
+2022-12-20 01:06:16,878 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:06:16,953 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 01:06:17,276 [main] INFO logger_File - user clicked on department Sports option
+2022-12-20 01:06:17,330 [main] INFO logger_File - options are present in department
+2022-12-20 01:06:20,373 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:06:20,460 [main] INFO logger_File - User Clicked on all Section
+2022-12-20 01:06:20,978 [main] INFO logger_File - user clicked on department Automative option
+2022-12-20 01:06:21,044 [main] INFO logger_File - options are present in department
+2022-12-20 01:06:23,917 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:06:24,096 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 01:06:24,402 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 01:06:24,500 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 01:06:24,907 [main] INFO logger_File - Account is Visible
+2022-12-20 01:06:24,993 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-20 01:06:25,106 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-20 01:06:25,196 [main] INFO logger_File - User Cliked Search Button
+2022-12-20 01:06:25,491 [main] INFO logger_File - User Clicked on the Item
+2022-12-20 01:06:25,874 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-20 01:06:25,936 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-20 01:06:26,287 [main] INFO logger_File - User Can See The Quantity is added in the Cart
+2022-12-20 01:06:31,225 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:06:31,324 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 01:06:31,523 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 01:06:31,577 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 01:06:31,993 [main] INFO logger_File - Account is Visible
+2022-12-20 01:06:32,061 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-20 01:06:32,162 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-20 01:06:32,224 [main] INFO logger_File - User Cliked Search Button
+2022-12-20 01:06:32,620 [main] INFO logger_File - User Clicked on the Item
+2022-12-20 01:06:32,931 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-20 01:06:32,998 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-20 01:06:33,035 [main] INFO logger_File - User Can See The Quantity is added in the Cart
+2022-12-20 01:06:33,104 [main] INFO logger_File - User Clicked on Cart Logo
+2022-12-20 01:06:33,175 [main] INFO logger_File - User Clicked On Proceed to Checkout Button
+2022-12-20 01:06:33,246 [main] INFO logger_File - User Clicked to add New Address
+2022-12-20 01:06:33,781 [main] INFO logger_File - User Entered Required Information
+2022-12-20 01:06:33,855 [main] INFO logger_File - User Clicked Add Button
+2022-12-20 01:06:33,898 [main] INFO logger_File - User Clicked to Add Payment Card
+2022-12-20 01:06:34,199 [main] INFO logger_File - User added his debit card information
+2022-12-20 01:06:34,253 [main] INFO logger_File - User clicked on ADD CARD BUTTON
+2022-12-20 01:06:34,500 [main] INFO logger_File - User Clicked on Place Order
+2022-12-20 01:06:35,055 [main] INFO logger_File - User See The Message Order Placed Successfully
+2022-12-20 01:06:38,338 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:06:38,452 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 01:06:38,733 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 01:06:38,828 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 01:06:39,182 [main] INFO logger_File - Account is Visible
+2022-12-20 01:06:39,253 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-20 01:06:39,353 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-20 01:06:39,434 [main] INFO logger_File - User Cliked Search Button
+2022-12-20 01:06:39,841 [main] INFO logger_File - User Clicked on the Item
+2022-12-20 01:06:40,145 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-20 01:06:40,196 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-20 01:06:40,776 [main] INFO logger_File - User Can See The Quantity is added in the Cart
+2022-12-20 01:06:40,850 [main] INFO logger_File - User Clicked on Cart Logo
+2022-12-20 01:06:40,917 [main] INFO logger_File - User Clicked On Proceed to Checkout Button
+2022-12-20 01:06:40,973 [main] INFO logger_File - User Clicked on Place Order
+2022-12-20 01:06:41,440 [main] INFO logger_File - User See The Message Order Placed Successfully
+2022-12-20 01:06:46,380 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:06:46,480 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 01:06:46,680 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 01:06:46,736 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 01:06:47,388 [main] INFO logger_File - Account is Visible
+2022-12-20 01:06:47,492 [main] INFO logger_File - User Clicked on Account Option
+2022-12-20 01:06:47,781 [main] INFO logger_File - User entered Name and phone Number
+2022-12-20 01:06:47,796 [main] INFO logger_File - User Clicked on Update Button
+2022-12-20 01:06:47,814 [main] INFO logger_File - User can see the Profiel 
+2022-12-20 01:06:50,987 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:06:51,105 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 01:06:51,391 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 01:06:51,478 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 01:06:51,889 [main] INFO logger_File - Account is Visible
+2022-12-20 01:06:52,027 [main] INFO logger_File - User Clicked on Account Option
+2022-12-20 01:06:52,530 [main] INFO logger_File - User added his debit card information
+2022-12-20 01:06:52,617 [main] INFO logger_File - User clicked on ADD CARD BUTTON
+2022-12-20 01:06:53,480 [main] INFO logger_File - User Added the Debit Card Information Successfully
+2022-12-20 01:06:58,526 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:06:58,625 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 01:06:58,850 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 01:06:58,905 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 01:06:59,295 [main] INFO logger_File - Account is Visible
+2022-12-20 01:06:59,429 [main] INFO logger_File - User Clicked on Account Option
+2022-12-20 01:07:00,029 [main] INFO logger_File - User Clicked Master Card Image
+2022-12-20 01:07:00,262 [main] INFO logger_File - User Clicked on Edit Card Option
+2022-12-20 01:07:00,622 [main] INFO logger_File - User Entered Required information to Edit the Card
+2022-12-20 01:07:00,675 [main] INFO logger_File - User Clicked Update Card
+2022-12-20 01:07:01,479 [main] INFO logger_File - A message showed the Edit Updated Successfully
+2022-12-20 01:07:06,506 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:07:06,603 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 01:07:06,810 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 01:07:06,862 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 01:07:07,226 [main] INFO logger_File - Account is Visible
+2022-12-20 01:07:07,353 [main] INFO logger_File - User Clicked on Account Option
+2022-12-20 01:07:07,745 [main] INFO logger_File - User Clicked on Card
+2022-12-20 01:07:07,801 [main] INFO logger_File - User Clicked Remove to remove the card
+2022-12-20 01:07:07,822 [main] INFO logger_File - Empty Card box is Displayed
+2022-12-20 01:07:11,067 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:07:11,205 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 01:07:11,602 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 01:07:11,707 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 01:07:12,120 [main] INFO logger_File - Account is Visible
+2022-12-20 01:07:12,280 [main] INFO logger_File - User Clicked on Account Option
+2022-12-20 01:07:12,422 [main] INFO logger_File - User Clidk On Add Addrees I-con
+2022-12-20 01:07:13,400 [main] INFO logger_File - User Entered Required Information
+2022-12-20 01:07:13,499 [main] INFO logger_File - User Clicked Add Button
+2022-12-20 01:07:14,254 [main] INFO logger_File - Message Successfully Updated
+2022-12-20 01:07:17,504 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:07:17,661 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 01:07:18,141 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 01:07:18,244 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 01:07:18,659 [main] INFO logger_File - Account is Visible
+2022-12-20 01:07:18,826 [main] INFO logger_File - User Clicked on Account Option
+2022-12-20 01:07:19,906 [main] INFO logger_File - User Clicked on Edit Address Option and cleared the Values
+2022-12-20 01:07:20,576 [main] INFO logger_File - User Entered Required Information
+2022-12-20 01:07:20,653 [main] INFO logger_File - User Clicked the Update Address Button
+2022-12-20 01:07:21,502 [main] INFO logger_File - updated Successefully
+2022-12-20 01:07:24,604 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:07:24,772 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 01:07:25,167 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 01:07:25,285 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 01:07:25,705 [main] INFO logger_File - Account is Visible
+2022-12-20 01:07:25,903 [main] INFO logger_File - User Clicked on Account Option
+2022-12-20 01:07:26,439 [main] INFO logger_File - User Clicked on Remove Card
+2022-12-20 01:07:26,470 [main] INFO logger_File - Address is removed
+2022-12-20 01:07:31,521 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:07:31,676 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 01:07:32,064 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 01:07:32,191 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 01:07:33,049 [main] INFO logger_File - Account is Visible
+2022-12-20 01:07:33,124 [main] INFO logger_File - User Click Order Section
+2022-12-20 01:07:33,805 [main] INFO logger_File - User Clicked On First Order
+2022-12-20 01:07:33,864 [main] INFO logger_File - User Clicked Review Button
+2022-12-20 01:07:34,020 [main] INFO logger_File - User Wrote the Review
+2022-12-20 01:07:34,071 [main] INFO logger_File - User Click the add Button to Add the Review
+2022-12-20 01:07:34,951 [main] INFO logger_File - Message added Successfully
+2022-12-20 01:07:40,243 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:07:40,379 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 01:07:40,663 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 01:07:40,767 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 01:07:41,365 [main] INFO logger_File - Account is Visible
+2022-12-20 01:07:41,460 [main] INFO logger_File - User Click Order Section
+2022-12-20 01:07:42,043 [main] INFO logger_File - User Clicked On First Order
+2022-12-20 01:07:42,071 [main] INFO logger_File - User Clicked on Return Item
+2022-12-20 01:07:42,123 [main] INFO logger_File - The reason is selected
+2022-12-20 01:07:42,169 [main] INFO logger_File - User Clicked the Drop off Service
+2022-12-20 01:07:42,222 [main] INFO logger_File - User Clicked on Return button
+2022-12-20 01:07:42,625 [main] INFO logger_File - User Can See a message Item Return was Successfull
+2022-12-20 01:07:47,851 [main] INFO logger_File - User See both Title are Matching
+2022-12-20 01:07:48,046 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-20 01:07:48,530 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-20 01:07:48,638 [main] INFO logger_File - User Clicked Login Button
+2022-12-20 01:07:49,312 [main] INFO logger_File - Account is Visible
